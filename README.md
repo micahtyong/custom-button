@@ -2,4 +2,4 @@
 
 Demo solution on creating custom components with TypeScript.
 
-![](./solution.png =200x200)
+<img src="./solution.png" alt="drawing" width="200"/>
