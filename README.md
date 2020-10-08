@@ -2,4 +2,4 @@
 
 Demo solution on creating custom components with TypeScript.
 
-![Solution](./solution.png)
+![Solution](./solution.png =200x)
